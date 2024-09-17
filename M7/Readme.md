@@ -1,2 +1,2 @@
-Aquest es el meu repositori per l'assignatura de M7. 
+## Aquest es el meu repositori per l'assignatura de M7. 
 
