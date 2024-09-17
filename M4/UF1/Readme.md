@@ -1,3 +1,4 @@
-Aquest es el meu repositori per l'assignatura de M4 UF1. 
+Aquest es el meu repositori per l'assignatura de M4 UF1 - Sistemes operatius propietaris en xarxa.
 # 📚📝💾 - Exercicis 
-### [Exercici Window Server](WindowsServer.pdf)
+### [Exercici Windows Server](WindowsServer.pdf)
+### [Exercici Sistemes de fitxers a Windows](FitxersAWindows.pdf)
