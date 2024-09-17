@@ -1,4 +1,4 @@
-## Aquest es el meu repositori per l'assignatura de M7. 
+## Aquest es el meu repositori per l'assignatura de M7 - Serveis de xarxa. 
 
 # - [UF1: Configuració de xarxes (DNS i DHCP)](UF1)
 # - [UF2: Correu electrònic i transmissió d'arxius](UF2)
