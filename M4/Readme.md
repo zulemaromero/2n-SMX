@@ -1,4 +1,4 @@
-## Aquest es el meu repositori per l'assignatura de M4. 
+## Aquest es el meu repositori per l'assignatura de M4 - Sistemes operatius en xarxa. 
 
 # - [UF1 - Sistemes operatius propietaris en xarxa](UF1)
 # - [UF2 - Sistemes operatius lliures en xarxa](UF2)
