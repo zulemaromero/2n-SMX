@@ -5,5 +5,5 @@ Aquest es el meu repositori per l'assignatura de M7 UF1 - Configuració de xarxe
 ### [Exercici Netplan](NetPlan.pdf)
 
 # 📚📝💾 - Exercicis UF1 
-### []()
+### [DHCP](DHCP.pdf)
 ### []()
