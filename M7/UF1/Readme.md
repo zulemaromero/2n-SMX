@@ -10,3 +10,4 @@ Aquest es el meu repositori per l'assignatura de M7 UF1 - Configuració de xarxe
 ### [DHCP2](DHCP2.pdf)
 ### [DHCP3-Optativa](DHCP3OPTATIVA.pdf)
 ### [1DNS](1DNS.pdf)
+### [2DNS](2DNS.pdf)
