@@ -28,11 +28,11 @@ Ara per guardar una vista a XML haurem d'importarla. Per això a la part dreta h
 Seleccionarem on volem guardar l'element XML i li donem a "Guardar". L'aurem de passar d'una màquina a una altra. La pots pujar a Drive i així la pots descarregar. 
 
 ## Importar XML desde una altra MV.
-Una vegada tenim l'arxiu XML descarregat obrirem el "Visor de eventos" i li donarem a "Importar vista personalizada"
+Una vegada tenim l'arxiu XML descarregat obrirem el "Visor de eventos" i li donarem a "Importar vista personalizada".
 ![ ](12.png)
-Busquem l'arxiu XML que hem descarregat i li donem a "Abrir"
+Busquem l'arxiu XML que hem descarregat i li donem a "Abrir".
 ![ ](13.png)
-Ens sortirà una finestra amb l'informació de l'event i li donem a "Aceptar"
+Ens sortirà una finestra amb l'informació de l'event i li donem a "Aceptar".
 ![ ](14.png)
 Ara ja tenim el visor d'events importat amb tota l'informació d'aquest. 
 ![ ](14.png)
