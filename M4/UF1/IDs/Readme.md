@@ -30,9 +30,9 @@ Seleccionarem on volem guardar l'element XML i li donem a "Guardar". L'aurem de 
 ## Importar XML desde una altra MV.
 Una vegada tenim l'arxiu XML descarregat obrirem el "Visor de eventos" i li donarem a "Importar vista personalizada".
 ![ ](12.png)
-Busquem l'arxiu XML que hem descarregat i li donem a "Abrir".
+Busquem l'arxiu XML que hem descarregat i li donem a "Abrir".\n
 ![ ](13.png)
-Ens sortirà una finestra amb l'informació de l'event i li donem a "Aceptar".
+Ens sortirà una finestra amb l'informació de l'event i li donem a "Aceptar".\n
 ![ ](14.png)
 Ara ja tenim el visor d'events importat amb tota l'informació d'aquest. 
 ![ ](14.png)
