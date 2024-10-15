@@ -70,10 +70,15 @@ Li donem a "Aceptar" i ja ho tenim.
 ## Comproba que funciona.
 
 Anirem a la configuració de "Crear tarea" i en l'apartat de accions li donarem a "Nueva". 
+
 A l'apartat "General" posarem un nom a la tasca i l'opció d'executar tant si l'usuari está iniciat com si no i en desencadenadores una hora d'execucció. 
+
 Ara escollirem el programa que volem iniciar, en aquest cas la brossa.
+
 a l'apartat de programa o script posarem la seguent comanda:
-    PowerShell.exe
+    PowerShell.exe.
+    
 I a l'apartat argumentos posarem la seguent comanda:
-    NoProfile -Command "Clear-RecycleBin -Force"
+    NoProfile -Command "Clear-RecycleBin -Force".
+    
 Li donem a "Aceptar" i ja ho tenim. 
