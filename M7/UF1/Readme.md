@@ -13,4 +13,3 @@ Aquest es el meu repositori per l'assignatura de M7 UF1 - Configuració de xarxe
 ### [2DNS](2DNS.pdf)
 ### [3DNS](DHCP3OPTATIVA.pdf)
 ### [4DNS-Optativa](4DNS-OPCIONAL.pdf)
-### [1FTP](1FTP.pdf)
