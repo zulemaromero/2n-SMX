@@ -3,3 +3,4 @@ Aquest es el meu repositori per l'assignatura de M4 UF2 - Sistemes operatius lli
 # 📚📝💾 - Exercicis 
 ### [Gestió de discos a Linux](DISK.pdf)
 ### [Monitoratge i gestió d'esdeveniments](Monitoratge)
+### [BACKUPS](Backups)
