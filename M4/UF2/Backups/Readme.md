@@ -35,3 +35,23 @@
  Activitat 5: Repeteix l’activitat anterior amb rsync.
  Activitat 6: Utilitza deja-dup per fer una còpia de seguretat del teu directori /home/usuari
  Activitat 7: Busca un altre programa de backups en entorn gràfic i fes una copia de seguretat de /home/usuari. Documenta el procés.
+  - Instal·la Deja Dup amb sudo apt install deja-dup (o el comandament corresponent per a la teva distribució).
+  - Obre Deja Dup des del menú d'aplicacions o amb el comandament deja-dup.
+  - ![](7.png)
+  - Selecciona les carpetes a fer còpia de seguretat, com /home/usuari.
+  - ![](8.png)
+  - Tria la destinació per la còpia (local, núvol, servidor remot).ç
+  - ![](9.png)
+  - Configura opcions avançades com encriptació i programació de còpies automàtiques.
+  - ![](10.png)
+  - Inicia la còpia de seguretat amb "Backup Now".
+  - ![](11.png)
+  - Comprova la còpia un cop completada i restaura quan sigui necessari amb l'opció "Restore".
+  - ![](12.png)
+
+
+
+
+
+
+
