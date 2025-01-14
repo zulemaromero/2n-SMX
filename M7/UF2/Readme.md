@@ -4,3 +4,5 @@ Aquest es el meu repositori per l'assignatura de M7 UF2 - Correu electrònic i t
 ### [1FTP](1FTP.pdf)
 ### [2FTP](2FTP.pdf)
 ### [2-ANNEXFTP](ANNEX-FTP.pdf)
+### [1MAIL](MAIL1.pdf)
+### [2MAIL](2email.pdf)
