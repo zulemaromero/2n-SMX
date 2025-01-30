@@ -10,7 +10,10 @@
   
 # 2. Connexió a Recursos compartits:
   a. Utilitza net use per connectar a cada carpeta compartida amb
-  diferents lletres de unitat (G:, H: i I:) sense fer-les persistents.
+  diferents lletres de unitat 
+
+  G:, H: i I: sense fer-les persistents.
+  
   
 # 3. Gestió de connexions:
    a. Desconnecta una de les unitats per comanda
