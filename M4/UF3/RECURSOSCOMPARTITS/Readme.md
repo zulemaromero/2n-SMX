@@ -8,12 +8,14 @@
     
   -Desconnecta la unitat.
     ![](3.png)
+
     
   -Connecta el recurs a la lletra I: amb credencials d'un usuari.
     ![](4.png)
     
   -Desconnecta la unitat.
     ![](5.png)
+    
    
 # 2 Utilitzant interfície gràfica.
   -Fes el mateix que a l'exercici 1.
