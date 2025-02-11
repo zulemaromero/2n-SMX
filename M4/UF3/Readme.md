@@ -6,3 +6,4 @@ Aquest es el meu repositori per l'assignatura de M4 UF3 - Compartició de recurs
 ### [RECURSOSCOMPARTITS](https://github.com/zulemaromero/2n-SMX/tree/main/M4/UF3/RECURSOSCOMPARTITS)
 ### [UNITATSENXARXA](https://github.com/zulemaromero/2n-SMX/tree/main/M4/UF3/UNITATSENXARXA)
 ### [IMPRESSORA](https://github.com/zulemaromero/2n-SMX/tree/main/M4/UF3/IMPRESSORA)
+### [DIRECTIVESDEGRUP](https://github.com/zulemaromero/2n-SMX/tree/main/M4/UF3/DIRECTIVESDEGRUP)
