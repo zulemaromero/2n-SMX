@@ -10,6 +10,9 @@ Crea un punt de muntatge al teu client i munta la carpeta del server.
 Comprova l'accés al recurs compartit
 ![image](https://github.com/user-attachments/assets/288605a4-4b7b-4816-b878-299bf6253783)
 
+![image](https://github.com/user-attachments/assets/3edbf38f-3a0c-412f-96ea-913046d7728c)
+
+
 ## Activitat 3
 Crea un directori compartit utilitzant NFS anomenat Tasca3-X, on X es el teu cognom. Fes que es pugui compartir amb qualsevol client. 
 Comprova que el directori es accesible des del client. 
