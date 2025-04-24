@@ -25,9 +25,9 @@
 ## Crea la configuració de SAMBA per compartir la carpeta per a l'usuari anterior amb lectura i escriptura amb màscara de fitxers 755.
 ![](10.png)
 ## Reinicia el servei SAMBA.
-![](11.png)
+![](11)
 ## Comprova que tens accés des de Windows amb les credencials de l'usuari.
-![](12)
+![](12.png)
 ## Crea algun fitxer a la carpeta.ç
 ![](13.png)
 ## Comprova que s'ha creat a Linux i té els permisos 755.
